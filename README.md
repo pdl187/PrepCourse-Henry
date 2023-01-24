@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del PrepCourse de Henry
+Hola soy Patricio Di Lella y este es mi primer día de entrenamiento de Henry. Hasta el momento estoy en pelotas!
